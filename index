@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <title>Recipe</title>
+  </head>
+  <body>
+    <h1>Pierogies recipe</h1>
+    <h2>What is a pierogi?</h2>
+    <p>A small dough dumpling stuffed with a filling such as potato or cheese, typically served as a dish with <em>onions</em> or <em>sour cream.</em> 
+      This recipe is for 16 servings
+    </p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>1 egg</li>
+      <li>Half a gallon of milk</li>
+      <li>500ml of sour cream</li>
+      <li>a lot of love</li>
+    </ul>
+    
+    <h2>Steps</h2>
+    <ol>
+      <li>Heat oven at 5778 K;</li>
+      <li>Beat the egg</li>
+      <li>Drink half a gallon and add the other gallon of milk</li>
+      <li>Make sure the egg is beat</li>
+      <li>Put stuff in the oven</li>
+      <li>Run a marathon and come back</li>
+    </ol> 
+    <h2>Missing Ingredients</h2>
+    <a href="mailto:aheraz@uxwid.net?cc=chloe@uxwid.com,christian@uxwid.com&bcc=pedro@uxwid.com&subject=Missing ingredients&body=Buy cow">Buy these Ingredients</a><br><br>
+    <img src="https://images.media-allrecipes.com/userphotos/250x250/182297.jpg">
+  </body>
+</html>
